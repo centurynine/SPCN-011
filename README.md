@@ -38,10 +38,8 @@
 ![image](https://user-images.githubusercontent.com/109062980/208189278-02a47124-a374-4440-839d-740ae6f2903f.png)
 
    watch screen
-   
-![image](https://user-images.githubusercontent.com/109062980/208189586-9f95cab9-7f40-4500-a5dc-c76224e2bd93.png)
-![image](https://user-images.githubusercontent.com/109062980/208189633-f6f34111-a18c-4a5b-9ee5-c42ca81e6b92.png)
-
+![image](https://user-images.githubusercontent.com/109062980/208236326-98f8151f-ab01-4d4d-88c5-b8c608dd5742.png)
+![image](https://user-images.githubusercontent.com/109062980/208236361-a7dfb992-b0d3-499f-8c02-0b2ea9bbb0e6.png)
 
   create vm from other os
 
